@@ -1,2 +1,2 @@
 # git-github
-this is learning
+this is learning tutorial
